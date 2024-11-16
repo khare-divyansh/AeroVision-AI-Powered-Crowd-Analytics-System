@@ -52,6 +52,13 @@ This project was undertaken as an **IEEE Initiative** with the goal of leveragin
 
 ---
 
+## 👥 Collaborators
+
+- **Divyansh Khare**: [khare-divyansh](https://github.com/khare-divyansh)
+- **Jalaj Srivastav**: [Jalaj2002](https://github.com/Jalaj2002)
+
+---
+
 ## 📬 Contact
 
 For more information or collaboration, feel free to reach out:
